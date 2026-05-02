@@ -1,0 +1,240 @@
+nohup: ignoring input
+[2026-01-19 14:29:07] Status map carregado: 47 itens
+[2026-01-19 14:29:07] Modo FULL | start_offset=500
+[2026-01-19 14:30:24] Progresso: upserts=100 | processed=100 | start=550 | max_date_seen=2023-11-07T20:32:31+03:00
+[2026-01-19 14:31:42] Progresso: upserts=200 | processed=200 | start=650 | max_date_seen=2023-11-07T20:32:35+03:00
+[2026-01-19 14:33:22] Progresso: upserts=300 | processed=300 | start=750 | max_date_seen=2023-11-07T20:32:39+03:00
+[2026-01-19 14:35:02] Progresso: upserts=400 | processed=400 | start=850 | max_date_seen=2023-11-07T20:32:44+03:00
+[2026-01-19 14:36:37] Progresso: upserts=500 | processed=500 | start=950 | max_date_seen=2023-11-07T20:32:48+03:00
+[2026-01-19 14:36:37] Limite por rodada atingido. upserts=500 | next_start_offset=1000 | last_date_modify=2023-11-07T20:32:48+03:00
+[2026-01-19 15:07:25] Status map carregado: 47 itens
+[2026-01-19 15:07:25] Modo FULL | start_offset=1000
+[2026-01-19 15:09:07] Progresso: upserts=100 | processed=100 | start=1050 | max_date_seen=2023-11-07T20:32:53+03:00
+[2026-01-19 15:10:52] Progresso: upserts=200 | processed=200 | start=1150 | max_date_seen=2023-11-07T20:32:57+03:00
+[2026-01-19 15:12:28] Progresso: upserts=300 | processed=300 | start=1250 | max_date_seen=2023-11-07T20:33:02+03:00
+[2026-01-19 15:14:29] Progresso: upserts=400 | processed=400 | start=1350 | max_date_seen=2023-11-07T20:33:07+03:00
+[2026-01-19 15:16:06] Progresso: upserts=500 | processed=500 | start=1450 | max_date_seen=2023-11-07T20:33:11+03:00
+[2026-01-19 15:16:06] Limite por rodada atingido. upserts=500 | next_start_offset=1500 | last_date_modify=2023-11-07T20:33:11+03:00
+[2026-01-19 15:22:00] Status map carregado: 47 itens
+[2026-01-19 15:22:00] Modo FULL | start_offset=1500
+[2026-01-19 15:23:35] Progresso: upserts=100 | processed=100 | start=1550 | max_date_seen=2023-11-07T20:33:16+03:00
+[2026-01-19 15:25:07] Status map carregado: 47 itens
+[2026-01-19 15:25:07] Modo FULL | start_offset=1500
+[2026-01-19 15:26:13] Progresso: upserts=100 | processed=100 | start=1550 | max_date_seen=2023-11-07T20:33:16+03:00
+[2026-01-19 15:27:50] Progresso: upserts=200 | processed=200 | start=1650 | max_date_seen=2023-11-07T20:33:20+03:00
+[2026-01-19 15:29:30] Progresso: upserts=300 | processed=300 | start=1750 | max_date_seen=2023-11-07T20:33:25+03:00
+[2026-01-19 15:31:08] Progresso: upserts=400 | processed=400 | start=1850 | max_date_seen=2023-11-07T20:33:29+03:00
+[2026-01-19 15:32:55] Progresso: upserts=500 | processed=500 | start=1950 | max_date_seen=2023-11-07T20:33:32+03:00
+[2026-01-19 15:32:55] Limite por rodada atingido. upserts=500 | next_start_offset=2000 | last_date_modify=2023-11-07T20:33:32+03:00
+[2026-01-19 15:35:06] Status map carregado: 47 itens
+[2026-01-19 15:35:06] Modo FULL | start_offset=2000
+[2026-01-19 15:36:46] Progresso: upserts=100 | processed=100 | start=2050 | max_date_seen=2023-11-07T20:33:38+03:00
+[2026-01-19 15:38:30] Progresso: upserts=200 | processed=200 | start=2150 | max_date_seen=2023-11-07T20:33:42+03:00
+[2026-01-19 15:40:11] Progresso: upserts=300 | processed=300 | start=2250 | max_date_seen=2023-11-07T20:33:47+03:00
+[2026-01-19 15:41:53] Progresso: upserts=400 | processed=400 | start=2350 | max_date_seen=2023-11-07T20:33:50+03:00
+[2026-01-19 15:43:39] Progresso: upserts=500 | processed=501 | start=2500 | max_date_seen=2023-11-07T20:33:56+03:00
+[2026-01-19 15:43:39] Limite por rodada atingido. upserts=500 | next_start_offset=2550 | last_date_modify=2023-11-07T20:33:56+03:00
+[2026-01-19 15:45:06] Status map carregado: 47 itens
+[2026-01-19 15:45:06] Modo FULL | start_offset=2550
+[2026-01-19 15:46:42] Progresso: upserts=100 | processed=100 | start=2600 | max_date_seen=2023-11-07T20:34:02+03:00
+[2026-01-19 15:48:18] Progresso: upserts=200 | processed=200 | start=2700 | max_date_seen=2023-11-07T20:34:06+03:00
+[2026-01-19 15:50:01] Progresso: upserts=300 | processed=300 | start=2800 | max_date_seen=2023-11-07T20:34:11+03:00
+[2026-01-19 15:51:36] Progresso: upserts=400 | processed=400 | start=2900 | max_date_seen=2023-11-07T20:34:16+03:00
+[2026-01-19 15:53:14] Progresso: upserts=500 | processed=500 | start=3000 | max_date_seen=2023-11-07T20:34:20+03:00
+[2026-01-19 15:53:14] Limite por rodada atingido. upserts=500 | next_start_offset=3050 | last_date_modify=2023-11-07T20:34:20+03:00
+[2026-01-19 15:55:10] Status map carregado: 47 itens
+[2026-01-19 15:55:10] Modo FULL | start_offset=3050
+[2026-01-19 15:56:44] Progresso: upserts=100 | processed=100 | start=3100 | max_date_seen=2023-11-07T20:34:24+03:00
+[2026-01-19 15:58:25] Progresso: upserts=200 | processed=200 | start=3200 | max_date_seen=2023-11-07T20:34:29+03:00
+[2026-01-19 16:00:08] Progresso: upserts=300 | processed=300 | start=3300 | max_date_seen=2023-11-07T20:34:35+03:00
+[2026-01-19 16:01:47] Progresso: upserts=400 | processed=400 | start=3400 | max_date_seen=2023-11-07T20:34:40+03:00
+[2026-01-19 16:03:20] Progresso: upserts=500 | processed=500 | start=3500 | max_date_seen=2023-11-07T20:34:44+03:00
+[2026-01-19 16:03:20] Limite por rodada atingido. upserts=500 | next_start_offset=3550 | last_date_modify=2023-11-07T20:34:44+03:00
+[2026-01-19 16:05:06] Status map carregado: 47 itens
+[2026-01-19 16:05:06] Modo FULL | start_offset=3550
+[2026-01-19 16:06:45] Progresso: upserts=100 | processed=100 | start=3600 | max_date_seen=2023-11-07T20:34:48+03:00
+[2026-01-19 16:08:39] Progresso: upserts=200 | processed=200 | start=3700 | max_date_seen=2023-11-07T20:34:54+03:00
+[2026-01-19 16:10:19] Progresso: upserts=300 | processed=300 | start=3800 | max_date_seen=2023-11-07T20:34:58+03:00
+[2026-01-19 16:11:57] Progresso: upserts=400 | processed=400 | start=3900 | max_date_seen=2023-11-07T20:35:02+03:00
+[2026-01-19 16:13:41] Progresso: upserts=500 | processed=500 | start=4000 | max_date_seen=2023-11-07T20:35:06+03:00
+[2026-01-19 16:13:41] Limite por rodada atingido. upserts=500 | next_start_offset=4050 | last_date_modify=2023-11-07T20:35:06+03:00
+[2026-01-19 16:15:05] Status map carregado: 47 itens
+[2026-01-19 16:15:05] Modo FULL | start_offset=4050
+[2026-01-19 16:16:58] Progresso: upserts=100 | processed=100 | start=4100 | max_date_seen=2023-11-07T20:35:13+03:00
+[2026-01-19 16:18:36] Progresso: upserts=200 | processed=200 | start=4200 | max_date_seen=2023-11-07T20:35:17+03:00
+[2026-01-19 16:20:15] Progresso: upserts=300 | processed=300 | start=4300 | max_date_seen=2023-11-07T20:35:22+03:00
+[2026-01-19 16:22:06] Progresso: upserts=400 | processed=400 | start=4400 | max_date_seen=2023-11-07T20:35:28+03:00
+[2026-01-19 16:23:50] Progresso: upserts=500 | processed=500 | start=4500 | max_date_seen=2023-11-07T20:35:33+03:00
+[2026-01-19 16:23:50] Limite por rodada atingido. upserts=500 | next_start_offset=4550 | last_date_modify=2023-11-07T20:35:33+03:00
+[2026-01-19 16:25:07] Status map carregado: 47 itens
+[2026-01-19 16:25:07] Modo FULL | start_offset=4550
+[2026-01-19 16:26:48] Progresso: upserts=100 | processed=100 | start=4600 | max_date_seen=2023-11-07T20:35:37+03:00
+[2026-01-19 16:28:32] Progresso: upserts=200 | processed=200 | start=4700 | max_date_seen=2023-11-07T20:35:41+03:00
+[2026-01-19 16:30:09] Progresso: upserts=300 | processed=300 | start=4800 | max_date_seen=2023-11-07T20:35:46+03:00
+[2026-01-19 16:31:56] Progresso: upserts=400 | processed=400 | start=4900 | max_date_seen=2023-11-07T20:35:50+03:00
+[2026-01-19 16:33:37] Progresso: upserts=500 | processed=500 | start=5000 | max_date_seen=2023-11-07T20:35:54+03:00
+[2026-01-19 16:33:37] Limite por rodada atingido. upserts=500 | next_start_offset=5050 | last_date_modify=2023-11-07T20:35:54+03:00
+[2026-01-19 16:35:06] Status map carregado: 47 itens
+[2026-01-19 16:35:06] Modo FULL | start_offset=5050
+[2026-01-19 16:37:04] Progresso: upserts=100 | processed=100 | start=5100 | max_date_seen=2023-11-07T20:35:59+03:00
+[2026-01-19 16:38:51] Progresso: upserts=200 | processed=200 | start=5200 | max_date_seen=2023-11-07T20:36:06+03:00
+[2026-01-19 16:40:28] Progresso: upserts=300 | processed=300 | start=5300 | max_date_seen=2023-11-07T20:36:10+03:00
+[2026-01-19 16:42:09] Progresso: upserts=400 | processed=401 | start=5450 | max_date_seen=2023-11-07T20:36:15+03:00
+[2026-01-19 16:43:52] Progresso: upserts=500 | processed=501 | start=5550 | max_date_seen=2023-11-07T20:36:19+03:00
+[2026-01-19 16:43:53] Limite por rodada atingido. upserts=500 | next_start_offset=5600 | last_date_modify=2023-11-07T20:36:19+03:00
+[2026-01-19 16:45:06] Status map carregado: 47 itens
+[2026-01-19 16:45:06] Modo FULL | start_offset=5600
+[2026-01-19 16:46:52] Progresso: upserts=100 | processed=100 | start=5650 | max_date_seen=2023-11-07T20:36:26+03:00
+[2026-01-19 16:48:36] Progresso: upserts=200 | processed=200 | start=5750 | max_date_seen=2023-11-07T20:36:31+03:00
+[2026-01-19 16:50:17] Progresso: upserts=300 | processed=300 | start=5850 | max_date_seen=2023-11-07T20:36:36+03:00
+[2026-01-19 16:51:53] Progresso: upserts=400 | processed=400 | start=5950 | max_date_seen=2023-11-07T20:36:42+03:00
+[2026-01-19 16:53:39] Progresso: upserts=500 | processed=500 | start=6050 | max_date_seen=2023-11-07T20:36:46+03:00
+[2026-01-19 16:53:39] Limite por rodada atingido. upserts=500 | next_start_offset=6100 | last_date_modify=2023-11-07T20:36:46+03:00
+[2026-01-19 16:55:07] Status map carregado: 47 itens
+[2026-01-19 16:55:07] Modo FULL | start_offset=6100
+[2026-01-19 16:56:48] Progresso: upserts=100 | processed=100 | start=6150 | max_date_seen=2023-11-07T20:36:50+03:00
+[2026-01-19 16:58:21] Progresso: upserts=200 | processed=200 | start=6250 | max_date_seen=2023-11-07T20:36:54+03:00
+[2026-01-19 17:00:03] Progresso: upserts=300 | processed=300 | start=6350 | max_date_seen=2023-11-07T20:36:59+03:00
+[2026-01-19 17:01:43] Progresso: upserts=400 | processed=400 | start=6450 | max_date_seen=2023-11-07T20:37:04+03:00
+[2026-01-19 17:03:26] Progresso: upserts=500 | processed=500 | start=6550 | max_date_seen=2023-11-07T20:37:08+03:00
+[2026-01-19 17:03:26] Limite por rodada atingido. upserts=500 | next_start_offset=6600 | last_date_modify=2023-11-07T20:37:08+03:00
+[2026-01-19 17:05:05] Status map carregado: 47 itens
+[2026-01-19 17:05:05] Modo FULL | start_offset=6600
+[2026-01-19 17:06:37] Progresso: upserts=100 | processed=100 | start=6650 | max_date_seen=2023-11-07T20:37:13+03:00
+[2026-01-19 17:08:24] Progresso: upserts=200 | processed=200 | start=6750 | max_date_seen=2023-11-07T20:37:18+03:00
+[2026-01-19 17:10:04] Progresso: upserts=300 | processed=300 | start=6850 | max_date_seen=2023-11-07T20:37:22+03:00
+[2026-01-19 17:11:51] Progresso: upserts=400 | processed=400 | start=6950 | max_date_seen=2023-11-07T20:37:27+03:00
+[2026-01-19 17:13:35] Progresso: upserts=500 | processed=500 | start=7050 | max_date_seen=2023-11-07T20:37:33+03:00
+[2026-01-19 17:13:35] Limite por rodada atingido. upserts=500 | next_start_offset=7100 | last_date_modify=2023-11-07T20:37:33+03:00
+[2026-01-19 17:15:07] Status map carregado: 47 itens
+[2026-01-19 17:15:07] Modo FULL | start_offset=7100
+[2026-01-19 17:17:02] Progresso: upserts=100 | processed=100 | start=7150 | max_date_seen=2023-11-07T20:37:38+03:00
+[2026-01-19 17:18:43] Progresso: upserts=200 | processed=200 | start=7250 | max_date_seen=2023-11-07T20:37:42+03:00
+[2026-01-19 17:20:28] Progresso: upserts=300 | processed=300 | start=7350 | max_date_seen=2023-11-07T20:37:46+03:00
+[2026-01-19 17:22:19] Progresso: upserts=400 | processed=400 | start=7450 | max_date_seen=2023-11-07T20:37:51+03:00
+[2026-01-19 17:24:02] Progresso: upserts=500 | processed=500 | start=7550 | max_date_seen=2023-11-07T20:37:56+03:00
+[2026-01-19 17:24:02] Limite por rodada atingido. upserts=500 | next_start_offset=7600 | last_date_modify=2023-11-07T20:37:56+03:00
+[2026-01-19 17:25:06] Status map carregado: 47 itens
+[2026-01-19 17:25:06] Modo FULL | start_offset=7600
+[2026-01-19 17:26:56] Progresso: upserts=100 | processed=100 | start=7650 | max_date_seen=2023-11-07T20:38:00+03:00
+[2026-01-19 17:28:46] Progresso: upserts=200 | processed=200 | start=7750 | max_date_seen=2023-11-07T20:38:05+03:00
+[2026-01-19 17:30:35] Progresso: upserts=300 | processed=300 | start=7850 | max_date_seen=2023-11-07T20:38:10+03:00
+[2026-01-19 17:32:29] Progresso: upserts=400 | processed=400 | start=7950 | max_date_seen=2023-11-07T20:38:14+03:00
+[2026-01-19 17:34:14] Progresso: upserts=500 | processed=500 | start=8050 | max_date_seen=2023-11-07T20:38:19+03:00
+[2026-01-19 17:34:14] Limite por rodada atingido. upserts=500 | next_start_offset=8100 | last_date_modify=2023-11-07T20:38:19+03:00
+[2026-01-19 17:35:06] Status map carregado: 47 itens
+[2026-01-19 17:35:06] Modo FULL | start_offset=8100
+[2026-01-19 17:36:51] Progresso: upserts=100 | processed=100 | start=8150 | max_date_seen=2023-11-07T20:38:24+03:00
+Traceback (most recent call last):
+  File "sync.py", line 290, in <module>
+    main()
+  File "sync.py", line 254, in main
+    situacao = get_company_situacao_label(company_id)
+  File "sync.py", line 175, in get_company_situacao_label
+    resp = bitrix_call("crm.company.get", {"id": company_id})
+  File "sync.py", line 56, in bitrix_call
+    r.raise_for_status()
+  File "/usr/lib/python3.6/site-packages/requests/models.py", line 940, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://cotefacil.bitrix24.com.br/rest/15/0rujcblvldtjbew0/crm.company.get.json
+[2026-01-19 17:40:07] Status map carregado: 47 itens
+[2026-01-19 17:40:07] Modo FULL | start_offset=8100
+[2026-01-19 17:41:17] Progresso: upserts=100 | processed=100 | start=8150 | max_date_seen=2023-11-07T20:38:24+03:00
+Traceback (most recent call last):
+  File "sync.py", line 290, in <module>
+    main()
+  File "sync.py", line 254, in main
+    situacao = get_company_situacao_label(company_id)
+  File "sync.py", line 175, in get_company_situacao_label
+    resp = bitrix_call("crm.company.get", {"id": company_id})
+  File "sync.py", line 56, in bitrix_call
+    r.raise_for_status()
+  File "/usr/lib/python3.6/site-packages/requests/models.py", line 940, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://cotefacil.bitrix24.com.br/rest/15/0rujcblvldtjbew0/crm.company.get.json
+[2026-01-19 17:45:06] Status map carregado: 47 itens
+[2026-01-19 17:45:06] Modo FULL | start_offset=8100
+[2026-01-19 17:46:16] Progresso: upserts=100 | processed=100 | start=8150 | max_date_seen=2023-11-07T20:38:24+03:00
+Traceback (most recent call last):
+  File "sync.py", line 290, in <module>
+    main()
+  File "sync.py", line 254, in main
+    situacao = get_company_situacao_label(company_id)
+  File "sync.py", line 175, in get_company_situacao_label
+    resp = bitrix_call("crm.company.get", {"id": company_id})
+  File "sync.py", line 56, in bitrix_call
+    r.raise_for_status()
+  File "/usr/lib/python3.6/site-packages/requests/models.py", line 940, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://cotefacil.bitrix24.com.br/rest/15/0rujcblvldtjbew0/crm.company.get.json
+[2026-01-19 17:50:07] Status map carregado: 47 itens
+[2026-01-19 17:50:07] Modo FULL | start_offset=8100
+[2026-01-19 17:51:17] Progresso: upserts=100 | processed=100 | start=8150 | max_date_seen=2023-11-07T20:38:24+03:00
+Traceback (most recent call last):
+  File "sync.py", line 290, in <module>
+    main()
+  File "sync.py", line 254, in main
+    situacao = get_company_situacao_label(company_id)
+  File "sync.py", line 175, in get_company_situacao_label
+    resp = bitrix_call("crm.company.get", {"id": company_id})
+  File "sync.py", line 56, in bitrix_call
+    r.raise_for_status()
+  File "/usr/lib/python3.6/site-packages/requests/models.py", line 940, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://cotefacil.bitrix24.com.br/rest/15/0rujcblvldtjbew0/crm.company.get.json
+[2026-01-19 17:55:08] Status map carregado: 47 itens
+[2026-01-19 17:55:08] Modo FULL | start_offset=8100
+[2026-01-19 17:56:20] Progresso: upserts=100 | processed=100 | start=8150 | max_date_seen=2023-11-07T20:38:24+03:00
+Traceback (most recent call last):
+  File "sync.py", line 290, in <module>
+    main()
+  File "sync.py", line 254, in main
+    situacao = get_company_situacao_label(company_id)
+  File "sync.py", line 175, in get_company_situacao_label
+    resp = bitrix_call("crm.company.get", {"id": company_id})
+  File "sync.py", line 56, in bitrix_call
+    r.raise_for_status()
+  File "/usr/lib/python3.6/site-packages/requests/models.py", line 940, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://cotefacil.bitrix24.com.br/rest/15/0rujcblvldtjbew0/crm.company.get.json
+[2026-01-19 18:00:09] Status map carregado: 47 itens
+[2026-01-19 18:00:09] Modo FULL | start_offset=8100
+[2026-01-19 18:01:20] Progresso: upserts=100 | processed=100 | start=8150 | max_date_seen=2023-11-07T20:38:24+03:00
+[2026-01-19 18:01:42] Aviso: falha ao buscar empresa (COMPANY_ID=299151): Bitrix HTTP 400 em crm.company.get | params={'id': 299151} | body={"error":"","error_description":"Not found"}
+[2026-01-19 18:03:00] Progresso: upserts=200 | processed=200 | start=8250 | max_date_seen=2023-11-07T20:38:28+03:00
+[2026-01-19 18:04:47] Progresso: upserts=300 | processed=300 | start=8350 | max_date_seen=2023-11-07T20:38:32+03:00
+[2026-01-19 18:06:52] Progresso: upserts=400 | processed=400 | start=8450 | max_date_seen=2023-11-07T20:38:37+03:00
+[2026-01-19 18:08:47] Progresso: upserts=500 | processed=500 | start=8550 | max_date_seen=2023-11-07T20:38:43+03:00
+[2026-01-19 18:08:47] Limite por rodada atingido. upserts=500 | next_start_offset=8600 | last_date_modify=2023-11-07T20:38:43+03:00
+[2026-01-19 18:10:08] Status map carregado: 47 itens
+[2026-01-19 18:10:08] Modo FULL | start_offset=8600
+[2026-01-19 18:11:56] Progresso: upserts=100 | processed=100 | start=8650 | max_date_seen=2023-11-07T20:38:47+03:00
+[2026-01-19 18:13:56] Progresso: upserts=200 | processed=200 | start=8750 | max_date_seen=2023-11-07T20:38:51+03:00
+[2026-01-19 18:15:46] Progresso: upserts=300 | processed=300 | start=8850 | max_date_seen=2023-11-07T20:38:55+03:00
+[2026-01-19 18:17:41] Progresso: upserts=400 | processed=400 | start=8950 | max_date_seen=2023-11-07T20:39:01+03:00
+[2026-01-19 18:19:22] Progresso: upserts=500 | processed=500 | start=9050 | max_date_seen=2023-11-07T20:39:05+03:00
+[2026-01-19 18:19:22] Limite por rodada atingido. upserts=500 | next_start_offset=9100 | last_date_modify=2023-11-07T20:39:05+03:00
+[2026-01-19 18:20:06] Status map carregado: 47 itens
+[2026-01-19 18:20:06] Modo FULL | start_offset=9100
+[2026-01-19 18:21:58] Progresso: upserts=100 | processed=100 | start=9150 | max_date_seen=2023-11-07T20:39:10+03:00
+[2026-01-19 18:23:54] Progresso: upserts=200 | processed=200 | start=9250 | max_date_seen=2023-11-07T20:39:14+03:00
+[2026-01-19 18:25:49] Progresso: upserts=300 | processed=300 | start=9350 | max_date_seen=2023-11-07T20:39:20+03:00
+[2026-01-19 18:27:36] Progresso: upserts=400 | processed=400 | start=9450 | max_date_seen=2023-11-07T20:39:25+03:00
+[2026-01-19 18:29:30] Progresso: upserts=500 | processed=500 | start=9550 | max_date_seen=2023-11-07T20:39:30+03:00
+[2026-01-19 18:29:31] Limite por rodada atingido. upserts=500 | next_start_offset=9600 | last_date_modify=2023-11-07T20:39:30+03:00
+[2026-01-19 18:30:08] Status map carregado: 47 itens
+[2026-01-19 18:30:08] Modo FULL | start_offset=9600
+[2026-01-19 18:31:54] Progresso: upserts=100 | processed=100 | start=9650 | max_date_seen=2023-11-07T20:39:36+03:00
+[2026-01-19 18:33:39] Progresso: upserts=200 | processed=200 | start=9750 | max_date_seen=2023-11-07T20:39:41+03:00
+[2026-01-19 18:35:32] Progresso: upserts=300 | processed=300 | start=9850 | max_date_seen=2023-11-07T20:39:44+03:00
+[2026-01-19 18:37:26] Progresso: upserts=400 | processed=400 | start=9950 | max_date_seen=2023-11-07T20:39:49+03:00
+[2026-01-19 18:39:19] Progresso: upserts=500 | processed=500 | start=10050 | max_date_seen=2023-11-07T20:39:54+03:00
+[2026-01-19 18:39:19] Limite por rodada atingido. upserts=500 | next_start_offset=10100 | last_date_modify=2023-11-07T20:39:54+03:00
+[2026-01-19 18:40:06] Status map carregado: 47 itens
+[2026-01-19 18:40:06] Modo FULL | start_offset=10100
+[2026-01-19 18:42:05] Progresso: upserts=100 | processed=100 | start=10150 | max_date_seen=2023-11-07T20:39:59+03:00
+[2026-01-19 18:43:51] Progresso: upserts=200 | processed=200 | start=10250 | max_date_seen=2023-11-07T20:40:04+03:00
+[2026-01-19 18:45:43] Progresso: upserts=300 | processed=300 | start=10350 | max_date_seen=2023-11-07T20:40:09+03:00
+[2026-01-19 18:47:31] Progresso: upserts=400 | processed=400 | start=10450 | max_date_seen=2023-11-07T20:40:15+03:00
+[2026-01-19 18:49:14] Progresso: upserts=500 | processed=500 | start=10550 | max_date_seen=2023-11-07T20:40:19+03:00
+[2026-01-19 18:49:14] Limite por rodada atingido. upserts=500 | next_start_offset=10600 | last_date_modify=2023-11-07T20:40:19+03:00
